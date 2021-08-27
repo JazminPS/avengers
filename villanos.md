@@ -3,3 +3,4 @@
 * Thanos
 * Ultrón
 * Abominación
+* Red Skull
